@@ -1,2 +1,3 @@
-# graylog-mpproxy-erlgraylogsender
-Erlang Graylog sender
+This is a Marketplace placeholder for a community GELF library that has not been submitted by the user.
+
+Follow this link to reach the GELF library: https://github.com/DECK36/erl_graylog_sender
